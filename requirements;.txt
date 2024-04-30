@@ -1,0 +1,6 @@
+OpenCV;
+numpy;
+tensorflow;
+matplotlib;
+scikit learn,
+moviepy;
